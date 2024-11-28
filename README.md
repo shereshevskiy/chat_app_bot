@@ -20,7 +20,7 @@ Bot Interface
 
 ## **Installation**
 
-1.             Clone the repository:
+1. Clone the repository:
 
 ```
 git clone https://github.com/shereshevskiy/chat_app_bot.git
@@ -41,13 +41,13 @@ On Windows, use
 
 `venv\Scripts\activate`
 
-3.             Install dependencies:
+3. Install dependencies:
 
 ```
 pip install -r requirements.txt
 ```
 
-4.             Add a .env file to the root directory with your API key:
+4. Add a .env file to the root directory with your API key:
 
 ```
 vsegpt_api_key=your_api_key_here
@@ -55,15 +55,15 @@ vsegpt_api_key=your_api_key_here
 
 ## **Usage**
 
-1.             Run the application:
+1. Run the application:
 
 ```
 python bot.py
 ```
 
-2.             Use the buttons to toggle themes, send messages, and clear chat history.
+2. Use the buttons to toggle themes, send messages, and clear chat history.
 
-3.             Chat history is automatically saved and can be reloaded when the application restarts.
+3. Chat history is automatically saved and can be reloaded when the application restarts.
 
 ## **Project Structure**
 
