@@ -27,7 +27,7 @@ git clone https://github.com/shereshevskiy/chat_app_bot.git
 cd chat_app_bot
 ```
 
-2.             Create a virtual environment and activate it:
+2. Create a virtual environment and activate it:
 
 ```
 python -m venv venv
