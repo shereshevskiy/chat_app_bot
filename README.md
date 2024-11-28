@@ -6,15 +6,11 @@ An intuitive and interactive chat application built using KivyMD and powered by 
 
 ## **Features**
 
-    •**Light/Dark Theme Toggle** : Easily switch between light and dark themes for better user experience.
-
-    •**Chat History Management** : Save, load, and clear chat history with simple controls.
-
-    •**Interactive UI** : Clean and modern interface with responsive chat bubbles.
-
-    •**API Integration** : Leverages the GPT-4.0 API for intelligent responses.
-
-    •**Customization** : Adjustable interface themes and user-friendly design.
+* **Light/Dark Theme Toggle** : Easily switch between light and dark themes for better user experience.
+* **Chat History Management** : Save, load, and clear chat history with simple controls.
+* **Interactive UI** : Clean and modern interface with responsive chat bubbles.
+* **API Integration** : Leverages the GPT-4.0 API for intelligent responses.
+* **Customization** : Adjustable interface themes and user-friendly design.
 
 ## **Screenshot**
 
@@ -30,7 +26,6 @@ Bot Interface
 git clone https://github.com/shereshevskiy/chat_app_bot.git
 cd chat_app_bot
 ```
-
 
     2.             Create a virtual environment and activate it:
 
