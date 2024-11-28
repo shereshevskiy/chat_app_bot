@@ -20,14 +20,14 @@ Bot Interface
 
 ## **Installation**
 
-    1.             Clone the repository:
+1.             Clone the repository:
 
 ```
 git clone https://github.com/shereshevskiy/chat_app_bot.git
 cd chat_app_bot
 ```
 
-    2.             Create a virtual environment and activate it:
+2.             Create a virtual environment and activate it:
 
 ```
 python -m venv venv
@@ -41,13 +41,13 @@ On Windows, use
 
 `venv\Scripts\activate`
 
-    3.             Install dependencies:
+3.             Install dependencies:
 
 ```
 pip install -r requirements.txt
 ```
 
-    4.             Add a .env file to the root directory with your API key:
+4.             Add a .env file to the root directory with your API key:
 
 ```
 vsegpt_api_key=your_api_key_here
@@ -55,31 +55,31 @@ vsegpt_api_key=your_api_key_here
 
 ## **Usage**
 
-    1.             Run the application:
+1.             Run the application:
 
 ```
 python bot.py
 ```
 
-    2.             Use the buttons to toggle themes, send messages, and clear chat history.
+2.             Use the buttons to toggle themes, send messages, and clear chat history.
 
-    3.             Chat history is automatically saved and can be reloaded when the application restarts.
+3.             Chat history is automatically saved and can be reloaded when the application restarts.
 
 ## **Project Structure**
 
-    •               bot.py: Main application file.
+•               bot.py: Main application file.
 
-    •               requirements.txt: Python dependencies.
+•               requirements.txt: Python dependencies.
 
-    •               .env: Contains API keys (not included in version control).
+•               .env: Contains API keys (not included in version control).
 
-    •               chat_history.json: Chat history saved locally.
+•               chat_history.json: Chat history saved locally.
 
 ## **Requirements**
 
-    •               Python 3.8 or higher
+•               Python 3.8 or higher
 
-    •               Libraries: kivy, kivymd, requests, python-dotenv
+•               Libraries: kivy, kivymd, requests, python-dotenv
 
 ## **Contributing**
 
